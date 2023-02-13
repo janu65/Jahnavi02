@@ -3,3 +3,5 @@ version : 6.5
 cost : 18000
 
 cam: 64pxl
+
+version : 8.0
