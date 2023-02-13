@@ -1,3 +1,5 @@
 Name : Xiomi
 version : 6.5
 cost : 18000
+
+cam: 64pxl
