@@ -1,4 +1,4 @@
-Name : Xiomi 12j
+Name : Xiomi 11i
 version : 6.5
 cost : 18000
 
@@ -6,5 +6,6 @@ cam: 64pxl
 
 cost : 21000
 
+name : Xiomi12j
 
 cost : 25000
