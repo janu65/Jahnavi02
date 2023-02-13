@@ -1,9 +1,7 @@
-Name : Xiomi
+Name : Xiomi 11i
 version : 6.5
 cost : 18000
 
 cam: 64pxl
 
-version : 8.0
-
-version : 9.0
+cost : 21000
